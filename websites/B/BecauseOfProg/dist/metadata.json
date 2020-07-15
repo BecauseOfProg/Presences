@@ -1,0 +1,20 @@
+{
+    "author": {
+      "name": "kernoeb",
+      "id": "174812820116996096"
+    },
+    "service": "BecauseOfProg",
+    "description": {
+      "fr": "https://becauseofprog.fr"
+    },
+    "url": "becauseofprog.fr",
+    "version": "1.0",
+    "logo": "https://becauseofprog.fr/manifest/images/apple/apple-touch-icon-180x180.png",
+    "thumbnail": "https://becauseofprog.fr/manifest/images/apple/apple-touch-icon-180x180.png",
+    "color": "#0000ff",
+    "tags": [
+      "becauseofprog"
+    ],
+    "category": "other",
+    "regExp": "([a-z0-9-]+[.])*becauseofprog[.]fr[/]"
+  }
